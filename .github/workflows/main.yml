@@ -1,6 +1,6 @@
 name: ziad
 on: push
-job:
+jobs:
    j3:
       runs-on: ubuntu-latest
       steps:
