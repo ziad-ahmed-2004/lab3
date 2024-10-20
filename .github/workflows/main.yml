@@ -1,0 +1,8 @@
+name: ziad
+on: push
+job:
+   j3:
+      runs-on: ubuntu-latest
+      steps:
+        - name: st1
+          run: echo "hello"
