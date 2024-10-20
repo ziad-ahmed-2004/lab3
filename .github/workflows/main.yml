@@ -6,3 +6,5 @@ job:
       steps:
         - name: st1
           run: echo "hello"
+        - name: st3
+          run: echo "hi"  
